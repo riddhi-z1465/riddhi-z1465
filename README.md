@@ -31,6 +31,9 @@
 </div>
 
 ###
+<img src="https://raw.githubusercontent.com/riddhi-z1465/riddhi-z1465/output/snake.svg" alt="Snake animation" />
+
+###
 
 <h2 align="left">Connect with me</h2>
 
@@ -47,6 +50,3 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/riddhi-z1465/riddhi-z1465/output/snake.svg" alt="Snake animation" />
-
-###
