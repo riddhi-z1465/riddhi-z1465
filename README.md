@@ -1,18 +1,16 @@
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Crimson+Text&size=32&pause=1000&color=0FCFF7&background=EE4CFF00&center=true&vCenter=true&height=100&lines=Hey+%F0%9F%91%8B+What's+up%3F;I'm+Riddhi+Zunjarrao" alt="Typing SVG" /></a>
+<a align="centre" href="https://git.io/typing-svg"><img align="centre" src="https://readme-typing-svg.herokuapp.com?font=Crimson+Text&size=40&pause=1000&color=db2191&background=EE4CFF00&center=true&vCenter=true&height=100&lines=Hey+%F0%9F%91%8B+What's+up%3F;I'm+Riddhi+Zunjarrao" alt="Typing SVG" /></a>
 
 ###
-<img align="centre" height="300" width="500" src="https://camo.githubusercontent.com/3e38d30f04e42688871c3de0a94852b9ec3c3b767e3ec2f9740fb144e462c47f/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323730343431342f73637265656e73686f74732f373436363930332f6d656469612f62303861623537363331366264343538326665663138396634373163643965352e676966"  />
-
-<p align="left">My name is Riddhi Zunjarrao.</p>
-
-###
+<img align="right" height="300" width="300" src="https://github.com/user-attachments/assets/1c36f49c-b1e0-47b6-b70f-13d9396b12c7"  />
 
 <h2 align="left">About me</h2>
 
-###
 
-<p align="left">📚 I'm currently learning B Tech in computer Science Engineering<br>🎯 Goals: <br>🎲 Fun fact:</p>
+<p align="left">🎓 First-year BTech student enthusiastic about learning new technologies.<br>
+💡 Exploring Python, web development, etc.<br>
+🌟 Working on personal projects and improving problem-solving skills.<br>
+✉️ Email: riddhizunjarrao669@gmail.com
 
 ###
 
