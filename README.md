@@ -1,7 +1,8 @@
-
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <a align="centre" href="https://git.io/typing-svg"><img align="centre" src="https://readme-typing-svg.herokuapp.com?font=Crimson+Text&size=40&pause=1000&color=db2191&background=EE4CFF00&center=true&vCenter=true&height=100&lines=Hey+%F0%9F%91%8B+What's+up%3F;I'm+Riddhi+Zunjarrao" alt="Typing SVG" /></a>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-###
+
 <img align="right" height="300" width="300" src="https://github.com/user-attachments/assets/1c36f49c-b1e0-47b6-b70f-13d9396b12c7"  />
 
 <h2 align="left">About me</h2>
@@ -13,8 +14,7 @@
 ✉️ Email: riddhizunjarrao669@gmail.com
 
 ###
-
-###
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <h2 align="left">I code with</h2>
 
@@ -31,7 +31,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
 </div>
 
+
 ###
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <h2 align="left">Connect with me</h2>
 
@@ -42,12 +44,15 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
 </div>
 
+
 ###
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <h2 align="left">Contribution</h2>
 
 <img src="https://raw.githubusercontent.com/riddhi-z1465/riddhi-z1465/output/snake.svg" alt="Snake animation" />
 
 ###
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <h2 align="left">📊 GitHub Stats:</h2>
 
 
