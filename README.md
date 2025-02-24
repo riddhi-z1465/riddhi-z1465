@@ -1,5 +1,5 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-<a align="centre" href="https://git.io/typing-svg"><img align="centre" src="https://readme-typing-svg.herokuapp.com?font=Crimson+Text&size=40&pause=1000&color=db2191&background=EE4CFF00&center=true&vCenter=true&height=100&lines=Hey+%F0%9F%91%8B+What's+up%3F;I'm+Riddhi+Zunjarrao" alt="Typing SVG" /></a>
+<a align="centre" href="https://git.io/typing-svg"><img align="centre" src="https://readme-typing-svg.herokuapp.com?font=Crimson+Text&size=40&pause=1000&color=56d6c3&background=EE4CFF00&center=true&vCenter=true&height=100&lines=Hey+%F0%9F%91%8B+What's+up%3F;I'm+Riddhi+Zunjarrao" alt="Typing SVG" /></a>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 
