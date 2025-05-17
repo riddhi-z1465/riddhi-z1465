@@ -61,12 +61,47 @@
 ###
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <h2 align="left">📊 GitHub Stats:</h2>
+<p align="center">
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=riddhi-z1465" alt="riddhi-z1465" /></a>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=riddhi-z1465&" alt="riddhi-z1465" />
+
+<p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=riddhi-z1465&show_icons=true&hide_border=false&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
+    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riddhi-z1465&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=false" />
+</p>
+</details>
+<br/>
+
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=riddhi-z1465&theme=react-dark&hide_border=true&area=true)
 
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=riddhi-z1465&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  /><img src="https://github-readme-stats.vercel.app/api/top-langs?username=riddhi-z1465&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  /></div>
 
+<h4 align="center">
+  
+```diff
++@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
+@@                                                     @@
+@@                                                     @@
+@@                                                     @@
+@@        Programming isn't about what you know        @@
+@@         It's about what you can figure out          @@
+@@                                                     @@
+@@                                                     @@
+@@         .----------------------------.              @@
+@@        | while( ! (succeed=try() ) ) |              @@
+@@         '----------------------------'              @@
+@@                                                     @@
+@@                                                     @@
+@@                                                     @@
+@@                Bugs are proof                       @@
+@@            that you're trying ✨✨                   @@
+@@                                                     @@
+@@                                                     @@
++@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
+```
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=riddhi-z1465" alt="riddhi-z1465" /></a> </p>
+</h4>  
+  
 
+<br/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=riddhi-z1465&" alt="riddhi-z1465" /></p>
