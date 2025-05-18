@@ -1,5 +1,5 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-<a align="centre" href="https://git.io/typing-svg"><img align="centre" src="https://readme-typing-svg.herokuapp.com?font=Crimson+Text&size=40&pause=1000&color=f5810c&background=EE4CFF00&center=true&vCenter=true&height=100&lines=Hey+%F0%9F%91%8B+What's+up%3F;I'm+Riddhi+Zunjarrao" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=fira+code&size=29&pause=1000&color=C77DFF&background=FFFFFF00&center=true&width=700&height=60&lines=Hi+there!+I'm+Riddhi+Zunjarrao;+A+Passionate+Developer+and+Tech+Explorer" alt="Typing SVG" /></a>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 
@@ -75,6 +75,16 @@
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=riddhi-z1465&theme=react-dark&hide_border=true&area=true)
 
 
+<h4 align="center">
+  
+```diff
++---------------------------------+
+|╦ ╦┌─┐┬  ┬  ┌─┐  ╦ ╦┌─┐┬─┐┬  ┌┬┐┬|
+|╠═╣├┤ │  │  │ │  ║║║│ │├┬┘│   │││|
+|╩ ╩└─┘┴─┘┴─┘└─┘  ╚╩╝└─┘┴└─┴─┘─┴┘o|
++---------------------------------+
+```
+</h4>
 
 <h4 align="center">
   
@@ -102,6 +112,3 @@
 
 </h4>  
   
-
-<br/>
-
