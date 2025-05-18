@@ -8,7 +8,7 @@
 <h2 align="left">About me</h2>
 
 
-<p align="left">🎓 First-year BTech student enthusiastic about learning new technologies.<br>
+<h3 align="left">🎓 First-year BTech student enthusiastic about learning new technologies.<br>
 💡 Exploring Python, web development, etc.<br>
 🌟 Working on personal projects and improving problem-solving skills.<br>
 ✉️ Email: riddhizunjarrao669@gmail.com
