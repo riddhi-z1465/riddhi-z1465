@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=fira+code&size=29&pause=1000&color=C77DFF&background=FFFFFF00&center=true&width=700&height=60&lines=Hi+there!+I'm+Riddhi+Zunjarrao;+A+Passionate+Developer+and+Tech+Explorer" alt="Typing SVG" /></a>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
