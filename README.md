@@ -1,6 +1,6 @@
-<img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=fira+code&size=29&pause=1000&color=C77DFF&background=FFFFFF00&center=true&width=700&height=60&lines=Hi+there!+I'm+Riddhi+Zunjarrao;+A+Passionate+Developer+and+Tech+Explorer" alt="Typing SVG" /></a>
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
 
 
 <img align="right" height="300" width="300" src="https://github.com/user-attachments/assets/1c36f49c-b1e0-47b6-b70f-13d9396b12c7"  />
@@ -14,7 +14,7 @@
 ✉️ Email: riddhizunjarrao669@gmail.com
 
 ###
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
 
 <h2 align="left">I code with</h2>
 
@@ -30,12 +30,12 @@
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  
 </div>
 
 
 ###
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
 
 <h2 align="left">Connect with me</h2>
 
@@ -53,7 +53,7 @@
 
 
 ###
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
 <h2 align="left">📊 GitHub Stats:</h2>
 <p align="center">
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=riddhi-z1465" alt="riddhi-z1465" /></a>
