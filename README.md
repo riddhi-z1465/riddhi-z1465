@@ -1,5 +1,22 @@
+<h4 align="center">
+  
+```diff
++---------------------------------+
+|╦ ╦┌─┐┬  ┬  ┌─┐  ╦ ╦┌─┐┬─┐┬  ┌┬┐┬|
+|╠═╣├┤ │  │  │ │  ║║║│ │├┬┘│   │││|
+|╩ ╩└─┘┴─┘┴─┘└─┘  ╚╩╝└─┘┴└─┴─┘─┴┘o|
++---------------------------------+
+```
+</h4>
+
+
+<img width=100% height=1px src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmYxY2VlNHF2NDk2OTd6cTRlMTIwbmxrMTJvc3YwNnFobTR0ZGtueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EC1gl2A5oplKMAorkT/giphy.gif">
+
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=fira+code&size=29&pause=1000&color=C77DFF&background=FFFFFF00&center=true&width=700&height=60&lines=Hi+there!+I'm+Riddhi+Zunjarrao;+A+Passionate+Developer+and+Tech+Explorer" alt="Typing SVG" /></a>
+
+<img width=100% height=1px src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmYxY2VlNHF2NDk2OTd6cTRlMTIwbmxrMTJvc3YwNnFobTR0ZGtueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EC1gl2A5oplKMAorkT/giphy.gif">
+
 
 
 
@@ -8,10 +25,13 @@
 <h2 align="left">About me</h2>
 
 
-<h3 align="left">🎓 First-year BTech student enthusiastic about learning new technologies.<br>
-💡 Exploring Python, web development, etc.<br>
-🌟 Working on personal projects and improving problem-solving skills.<br>
-✉️ Email: riddhizunjarrao669@gmail.com
+<h4 align="left">
+👨‍💻 Developer & lifelong learner. <br>
+🧪 Passionate about blending creativity with code. <br>
+🌱 Learning every day — from AI to creative UI. <br>
+💡 Exploring Python & web development through projects. <br>
+✉️ Connect: <a href="mailto:riddhizunjarrao669@gmail.com">riddhizunjarrao669@gmail.com</a>
+</h4>
 
 ###
 
@@ -30,6 +50,8 @@
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
   
 </div>
 
@@ -59,9 +81,20 @@
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=riddhi-z1465" alt="riddhi-z1465" /></a>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=riddhi-z1465&" alt="riddhi-z1465" />
 
+
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=riddhi-z1465&show_icons=true&hide_border=false&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
-    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riddhi-z1465&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=false" />
+   
+  <img align="center" 
+       src="https://github-readme-stats.vercel.app/api?username=riddhi-z1465&amp;show_icons=true&amp;hide_border=false&amp;title_color=A287F4&amp;icon_color=FFC5D9&amp;text_color=4B4B4B&amp;bg_color=FDFCFB,E2D1C3&amp;count_private=true&amp;include_all_commits=true" />
+
+  <img align="center" height="195px" 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=riddhi-z1465&amp;text_color=4B4B4B&amp;bg_color=FDFCFB,E2D1C3&amp;title_color=A287F4&amp;langs_count=15&amp;layout=compact&amp;hide_border=false" />
+</p>
+
+
+
+
+
 
   <img src="https://raw.githubusercontent.com/riddhi-z1465/riddhi-z1465/output/snake.svg" alt="Snake animation" />
 </p>
@@ -71,16 +104,7 @@
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=riddhi-z1465&theme=react-dark&hide_border=true&area=true)
 
 
-<h4 align="center">
-  
-```diff
-+---------------------------------+
-|╦ ╦┌─┐┬  ┬  ┌─┐  ╦ ╦┌─┐┬─┐┬  ┌┬┐┬|
-|╠═╣├┤ │  │  │ │  ║║║│ │├┬┘│   │││|
-|╩ ╩└─┘┴─┘┴─┘└─┘  ╚╩╝└─┘┴└─┴─┘─┴┘o|
-+---------------------------------+
-```
-</h4>
+
 
 <h4 align="center">
   
