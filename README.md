@@ -25,13 +25,13 @@
 <h2 align="left">About me</h2>
 
 
-<h4 align="left">
+
 👨‍💻 Developer & lifelong learner. <br>
 🧪 Passionate about blending creativity with code. <br>
 🌱 Learning every day — from AI to creative UI. <br>
 💡 Exploring Python & web development through projects. <br>
 ✉️ Connect: <a href="mailto:riddhizunjarrao669@gmail.com">riddhizunjarrao669@gmail.com</a>
-</h4>
+
 
 ###
 
@@ -77,22 +77,22 @@
 ###
 
 <h2 align="left">📊 GitHub Stats:</h2>
-<p align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=riddhi-z1465" alt="riddhi-z1465" /></a>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=riddhi-z1465&" alt="riddhi-z1465" />
 
 
-<p align="center">
+<p align="center" >
    
-  <img align="center" 
+  <img align="center" height="595px" 
        src="https://github-readme-stats.vercel.app/api?username=riddhi-z1465&amp;show_icons=true&amp;hide_border=false&amp;title_color=A287F4&amp;icon_color=FFC5D9&amp;text_color=4B4B4B&amp;bg_color=FDFCFB,E2D1C3&amp;count_private=true&amp;include_all_commits=true" />
 
-  <img align="center" height="195px" 
+  <img align="center" height="595px" 
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=riddhi-z1465&amp;text_color=4B4B4B&amp;bg_color=FDFCFB,E2D1C3&amp;title_color=A287F4&amp;langs_count=15&amp;layout=compact&amp;hide_border=false" />
 </p>
 
 
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=riddhi-z1465&" alt="riddhi-z1465" />
 
+<p align="center">
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=riddhi-z1465" alt="riddhi-z1465" /></a>
 
 
 
