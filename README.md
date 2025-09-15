@@ -20,18 +20,18 @@
 
 
 
-<img align="right" height="300" width="300" src="https://github.com/user-attachments/assets/1c36f49c-b1e0-47b6-b70f-13d9396b12c7"  />
+<img align="right" height="250" width="250" src="https://github.com/user-attachments/assets/1c36f49c-b1e0-47b6-b70f-13d9396b12c7"  />
 
 <h2 align="left">About me</h2>
 
 
-
+<p>
 👨‍💻 Developer & lifelong learner. <br>
 🧪 Passionate about blending creativity with code. <br>
 🌱 Learning every day — from AI to creative UI. <br>
 💡 Exploring Python & web development through projects. <br>
 ✉️ Connect: <a href="mailto:riddhizunjarrao669@gmail.com">riddhizunjarrao669@gmail.com</a>
-
+</p>
 
 ###
 
