@@ -132,21 +132,30 @@
 <h2 align="left">📊 GitHub Stats:</h2>
 
 
-<p align="center" >
-   
-  <img align="center" height="595px" 
-       src="https://github-readme-stats.vercel.app/api?username=riddhi-z1465&amp;show_icons=true&amp;hide_border=false&amp;title_color=A287F4&amp;icon_color=FFC5D9&amp;text_color=4B4B4B&amp;bg_color=FDFCFB,E2D1C3&amp;count_private=true&amp;include_all_commits=true" />
-
-  <img align="center" height="595px" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=riddhi-z1465&amp;text_color=4B4B4B&amp;bg_color=FDFCFB,E2D1C3&amp;title_color=A287F4&amp;langs_count=15&amp;layout=compact&amp;hide_border=false" />
+<p align="center">
+  <a href="https://github.com/riddhi-z1465">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=riddhi-z1465&show_icons=true&hide_border=false&title_color=FFA500&icon_color=FFC5D9&text_color=4B4B4B&bg_color=FDFCFB,E2D1C3&count_private=true&include_all_commits=true" />
+  </a>
+  <a href="https://github.com/riddhi-z1465">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riddhi-z1465&text_color=4B4B4B&bg_color=FDFCFB,E2D1C3&title_color=FFA500&langs_count=15&layout=compact&hide_border=false" />
+  </a>
 </p>
 
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=riddhi-z1465&" alt="riddhi-z1465" />
 
+<!-- 🔥 GitHub Streak Stats -->
 <p align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=riddhi-z1465" alt="riddhi-z1465" /></a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=riddhi-z1465&theme=default&hide_border=false" alt="riddhi-z1465 streak stats" />
+</p>
 
+###
+
+<!-- 🏆 GitHub Profile Trophies -->
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=riddhi-z1465&theme=flat&no-frame=false&no-bg=false&margin-w=10" alt="riddhi-z1465 trophies" />
+  </a>
+</p>
 
 
   <img src="https://raw.githubusercontent.com/riddhi-z1465/riddhi-z1465/output/snake.svg" alt="Snake animation" />
