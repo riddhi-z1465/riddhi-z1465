@@ -69,7 +69,15 @@
 </p>
 
 ###
+<!-- Frameworks & Libraries -->
+<h3 align="left">🧩 Frameworks & Libraries</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs" alt="Frameworks and Libraries" />
+  </a>
+</p>
 
+###
 <!-- Databases -->
 <h3 align="left">🗄️ Databases</h3>
 <p align="center">
@@ -94,7 +102,7 @@
 <h3 align="left">🛠️ Tools & Platforms</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,gcp" alt="Tools and Platforms" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,gcp,firebase" alt="Tools and Platforms" />
   </a>
 </p>
 
