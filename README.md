@@ -36,15 +36,69 @@
 ###
 
 
-<h2 align="left">I code with</h2>
+<h2 align="left">I Code With</h2>
 
 ###
 
+<!-- Programming Languages -->
+<h3 align="left">💻 Programming Languages</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,cpp,html,css,js,tailwind,figma,gcp,mongodb,opencv,pytorch,github,gitlab,git,vscode,mysql" alt="Cre4T3Tiv3 skill icons" />
+    <img src="https://skillicons.dev/icons?i=py,cpp" alt="Programming Languages" />
   </a>
 </p>
+
+###
+
+<!-- Frontend Development -->
+<h3 align="left">🎨 Frontend Development</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,figma" alt="Frontend Development" />
+  </a>
+</p>
+
+###
+
+<!-- Backend Development -->
+<h3 align="left">⚙️ Backend Development</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend Development" />
+  </a>
+</p>
+
+###
+
+<!-- Databases -->
+<h3 align="left">🗄️ Databases</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="Databases" />
+  </a>
+</p>
+
+###
+
+<!-- AI / Machine Learning -->
+<h3 align="left">🤖 AI / Machine Learning</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=opencv,pytorch" alt="AI and Machine Learning" />
+  </a>
+</p>
+
+###
+
+<!-- Tools & Platforms -->
+<h3 align="left">🛠️ Tools & Platforms</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,gcp" alt="Tools and Platforms" />
+  </a>
+</p>
+
+
 
 
 ###
