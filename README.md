@@ -150,14 +150,7 @@
 
 ###
 
-<!-- 🏆 GitHub Profile Trophies -->
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=riddhi-z1465&theme=flat&no-frame=false&no-bg=false&margin-w=10" alt="riddhi-z1465 trophies" />
-  </a>
-</p>
-</p>
-</details>
+
 <br/>
 
 ![Snake animation](https://raw.githubusercontent.com/taozhi8833998/taozhi8833998/output/github-contribution-grid-snake-dark.svg)
