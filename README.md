@@ -156,9 +156,6 @@
     <img src="https://github-profile-trophy.vercel.app/?username=riddhi-z1465&theme=flat&no-frame=false&no-bg=false&margin-w=10" alt="riddhi-z1465 trophies" />
   </a>
 </p>
-
-
-  <img src="https://raw.githubusercontent.com/riddhi-z1465/riddhi-z1465/output/snake.svg" alt="Snake animation" />
 </p>
 </details>
 <br/>
