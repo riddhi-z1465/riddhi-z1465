@@ -165,7 +165,11 @@
 
 ![snake animation](https://github.com/riddhi-z1465/riddhi-z1465/blob/output/github-contribution-grid-snake2.svg)
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=riddhi-z1465&theme=react-dark&hide_border=true&area=true)
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/riddhi-z1465/riddhi-z1465/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/riddhi-z1465/riddhi-z1465/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/riddhi-z1465/riddhi-z1465/output/github-contribution-grid-snake.svg">
+</picture>
 
 
 
